@@ -1,0 +1,1 @@
+inside the config file is the mysql file which will create the database and tables and insert data into them.
